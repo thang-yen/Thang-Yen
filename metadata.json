@@ -1,0 +1,5 @@
+{
+  "name": "Chỉnh sửa ảnh, ghép ảnh bằng Google Studio miễn phí",
+  "description": "Một ứng dụng web mạnh mẽ sử dụng API Gemini của Google để tạo và chỉnh sửa hình ảnh từ mô tả văn bản, tải lên hình ảnh, xóa nền và làm nét ảnh với giao diện so sánh trực quan.",
+  "requestFramePermissions": []
+}
